@@ -195,7 +195,7 @@ Model Trained and Saved
 Process finished with exit code 0
 
 
-原作者效果：
+The original model: https://github.com/deep-diver/EN-FR-MLT-tensorflow/blob/master/dlnd_language_translationv2.ipynb
 Epoch   0 Batch  300/1077 - Train Accuracy: 0.4297, Validation Accuracy: 0.5085, Loss: 1.9696
 Epoch   0 Batch  600/1077 - Train Accuracy: 0.5246, Validation Accuracy: 0.5270, Loss: 1.0977
 Epoch   0 Batch  900/1077 - Train Accuracy: 0.5324, Validation Accuracy: 0.5813, Loss: 0.8912
