@@ -41,3 +41,5 @@ seq2seq_RNN_model.py and seq2seq_RNN_model_batch_size.py work the same way, but 
 TODO: Find out the reason why seq2seq_RNN_model.py does not work well on the verification set, and fix the code BUG.
 
 
+## Code reference
+https://github.com/deep-diver/EN-FR-MLT-tensorflow
